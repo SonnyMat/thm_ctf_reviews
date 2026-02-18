@@ -11,6 +11,6 @@ Każda sekcja zawiera opis zadania, metodę rozwiązania oraz obrazek pokazując
 
 ## 📌 Flagi – Spis treści
 
-1. [CTF – CupidBot | TRYHACKME](#flag-1-cupidbot)  
+1. [CTF – CupidBot | TRYHACKME](cupidbot/README.md)
 
 ---
