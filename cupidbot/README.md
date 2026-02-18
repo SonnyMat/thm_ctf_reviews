@@ -24,14 +24,14 @@ My girlfriend used to write me a system confirguartion and read later. Can You b
 Flag 2: THM{cupid_a7f3e89c4b2d6f1a5e8c9d3b7f4a2e6c}
 
 ![CupidBOT FLAG 2 ScreenShot]
-![Flag 2](cupidbot/Flag%202.png)
+![Flag 2](cupidbot/Falg%202.png)
 
 3. What’s the final flag?
 Flag 3: THM{arrow_3c8f1d5a9e2b6f4c7d1a8e5b9f3c6d2a}
 
-![CupidBOT FLAG 3 ScreenShot](TryHackMe CupidBot - finish.png)
+![CupidBOT FLAG 3 ScreenShot][Finish](cupidbot/Finish.png)
 
 
 FINISH 
 ![CupidBOT FINISH ScreenShot]!
-[Finish](cupidbot/Finish.png)
+[Finish](cupidbot/TryHackMe CupidBot - finish.png)
