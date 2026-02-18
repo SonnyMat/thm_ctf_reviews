@@ -22,3 +22,27 @@ This write-up explains how the Valenfind TryHackMe challenge was solved by explo
 The challenge demonstrates how a seemingly small vulnerability can lead to full application compromise.
 
 ---
+## SOLUTION - STEP - BY - STEP
+
+Create an account and review other user profiles. The “Profile Theme” feature contains an LFI vulnerability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## What is the flag?
+THM{v1be_c0ding_1s_n0t_my_cup_0f_t3a}
