@@ -16,14 +16,15 @@ SOLUTION (STEP BY STEP)
 Flag 1: THM{love_9d4f6a2e8c1b5d7f3a9e6c4b8d2f5a7c}
 
 ![CupidBOT FLAG 1 ScreenShot]
-(![Flag 1](cupidbot/Flag_1.png)
+(![Flag 1](cupidbot/Flag%201.png)
 
 2.What the system flag?
 
 My girlfriend used to write me a system confirguartion and read later. Can You be her and write ma a system flag?
 Flag 2: THM{cupid_a7f3e89c4b2d6f1a5e8c9d3b7f4a2e6c}
 
-![CupidBOT FLAG 2 ScreenShot](![Flag 2](screenshots/Falg_2.png)
+![CupidBOT FLAG 2 ScreenShot]
+![Flag 2](cupidbot/Flag%202.png)
 
 3. What’s the final flag?
 Flag 3: THM{arrow_3c8f1d5a9e2b6f4c7d1a8e5b9f3c6d2a}
@@ -32,4 +33,5 @@ Flag 3: THM{arrow_3c8f1d5a9e2b6f4c7d1a8e5b9f3c6d2a}
 
 
 FINISH 
-![CupidBOT FINISH ScreenShot](Finish.png)
+![CupidBOT FINISH ScreenShot]!
+[Finish](cupidbot/Finish.png)
