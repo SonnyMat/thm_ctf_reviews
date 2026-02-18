@@ -16,7 +16,7 @@ SOLUTION (STEP BY STEP)
 Flag 1: THM{love_9d4f6a2e8c1b5d7f3a9e6c4b8d2f5a7c}
 
 ![CupidBOT FLAG 1 ScreenShot]
-(![Flag 1](cupidbot/screenshots/Flag_1.png)
+(![Flag 1](cupidbot/Flag_1.png)
 
 2.What the system flag?
 
