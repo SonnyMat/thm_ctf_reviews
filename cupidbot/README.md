@@ -4,7 +4,7 @@
 Room: https://tryhackme.com/room/lafb2026e6
 
 
-PL: Ta ścieżka wyjaśnia CupidBot CTF Challenge. Na serię Walentynkową. Nauka jak działa prompt i jak różnie zbudowane prompty ujawniają ukryte flagi, rozumiejąc przy tym jak łatwo można wykorzystać i przebić się bez bezpieczeństwo AI. 
+PL: Ta ścieżka wyjaśnia CupidBot CTF Challenge. Na serię Walentynkową. Nauka jak działa prompt i jak różnie zbudowane prompty ujawniają ukryte flagi, rozumiejąc przy tym jak łatwo można wykorzystać i przebić się przez bezpieczeństwo AI. 
 
 ENG : This walkthrough explains the CupidBot TryHackMe CTF challenge. Learn how prompt injection works and how different prompts reveal hidden flags while understanding AI security risks in a simple way. 
 
