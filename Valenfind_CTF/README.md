@@ -41,11 +41,11 @@ GET /api/fetch_layout?layout=/../../../../opt/Valenfind/app.py :
 Code of our use:
 
 
-# Database name + key
+ Database name + key
 ADMIN_API_KEY = "CUPID_MASTER_KEY_2024_XOXO"
 DATABASE = 'cupid.db'
 
-# How to use
+ How to use
 @app.route('/api/admin/export_db')
 def export_db():
     auth_header = request.headers.get('X-Valentine-Token')
