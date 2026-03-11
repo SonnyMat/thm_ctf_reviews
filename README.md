@@ -13,4 +13,5 @@ Każda sekcja zawiera opis zadania, metodę rozwiązania oraz obrazek pokazując
 
 1. [CTF – CupidBot | TRYHACKME](cupidbot/README.md)
 2. [CTF – Valenfind CTF | TRYHACKME](Valenfind_CTF/README.md)
+3. [CTF - TShark I: Teamwork | TRYHACKME](TShark%20I:%20Teamwork/README.md)
 ---
