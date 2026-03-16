@@ -218,11 +218,6 @@ Ruch sieciowy wskazuje na próbę **phishingu podszywającego się pod PayPal**.
 
 ---
 
-✅ Jeśli chcesz, mogę też zrobić dla Ciebie:
 
-* **wersję idealną na GitHub (Markdown + miejsca na screenshoty)**
-* **strukturę repozytorium CTF żeby wyglądało profesjonalnie**
-* albo **skróconą wersję raportu na zaliczenie na studiach (bardziej akademicką)**.
 
-[1]: https://www.jalblas.com/blog/tryhackme-tshark-challenge-1-teamwork-walkthrough-soc-level-1/?utm_source=chatgpt.com "TryHackMe: TShark Challenge 1: Teamwork Walkthrough"
-[2]: https://www.jalblas.com/blog/tryhackme-wireshark-tshark-the-basics-walkthrough-soc-level-1/?utm_source=chatgpt.com "TryHackMe: TShark The Basics Walkthrough (SOC Level 1)"
+
